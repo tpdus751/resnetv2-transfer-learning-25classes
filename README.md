@@ -61,6 +61,9 @@ ResNetV2_25_Classification_seyeon.ipynb
 
 ## 성능 요약
 
+<img width="1136" height="215" alt="image" src="https://github.com/user-attachments/assets/47b3de5b-c3d7-43e0-918d-4ccbebad990f" />
+
+
 | 항목 | 값 |
 |------|----|
 | 최종 Epoch | 71 |
