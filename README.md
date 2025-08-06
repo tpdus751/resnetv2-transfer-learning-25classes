@@ -109,6 +109,8 @@ ResNetV2_25_Classification_seyeon.ipynb
    ```
 셀을 순서대로 실행하여 학습 또는 추론 진행
 
+---
+
 ## ⚠️ 한계점 및 개선 방향
 
 <img width="1406" height="800" alt="image" src="https://github.com/user-attachments/assets/1286e9a6-aba7-4563-8368-7fb2d20b7bbc" />
@@ -121,13 +123,19 @@ ResNetV2_25_Classification_seyeon.ipynb
 
 더 다양한 각도, 배경, 환경에서의 이미지 수집 시 일반화 성능 향상 가능
 
+---
+
 ## 활용 목적
 - 인공지능 실습 과제 및 시험 제출용 프로젝트
 - 전이학습 및 멀티클래스 분류 모델 구축 경험 목적
 
+---
+
 ## 🙋‍♀️ 기여자(이미지 수집)
 이미지 수집 및 모델 개발: 총 5명
 - 박세연, 김범준, 이예은, 전가람, 김시원
+
+---
 
 ## 🧑‍💻 개발자
 ```
@@ -135,5 +143,7 @@ ResNetV2_25_Classification_seyeon.ipynb
 2년제 인공지능소프트웨어 전공 / 핀테크 & AI 백엔드 개발 지향
 ✉️ 751psy@gmail.com
 ```
+
+---
 
 
